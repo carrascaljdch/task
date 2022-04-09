@@ -1,0 +1,22 @@
+.logins{
+    background: rgba(219,244,255,1);
+background: -moz-linear-gradient(left, rgba(219,244,255,1) 0%, rgba(51,207,255,1) 50%, rgba(235,249,255,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(219,244,255,1)), color-stop(50%, rgba(51,207,255,1)), color-stop(100%, rgba(235,249,255,1)));
+background: -webkit-linear-gradient(left, rgba(219,244,255,1) 0%, rgba(51,207,255,1) 50%, rgba(235,249,255,1) 100%);
+background: -o-linear-gradient(left, rgba(219,244,255,1) 0%, rgba(51,207,255,1) 50%, rgba(235,249,255,1) 100%);
+background: -ms-linear-gradient(left, rgba(219,244,255,1) 0%, rgba(51,207,255,1) 50%, rgba(235,249,255,1) 100%);
+background: linear-gradient(to right, rgba(219,244,255,1) 0%, rgba(51,207,255,1) 50%, rgba(235,249,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbf4ff', endColorstr='#ebf9ff', GradientType=1 );
+}
+
+.login {
+    background: #56ab2f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  .signup {
+    background: #000428;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
